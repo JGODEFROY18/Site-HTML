@@ -1,0 +1,17 @@
+div.style1 {
+    color: rgb(255, 253, 253);
+    padding: 50px;
+    height: 100px;
+    background-color:#7c7b7c;
+    float: auto;
+}
+div.PhotoResistant {
+    width: 250px;
+    float : auto;
+}
+div.Img1 {
+    float : left;
+}
+div.Text1 {
+    float : left;
+}

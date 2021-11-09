@@ -1,0 +1,42 @@
+
+    div.style1 {
+        color: crimson;
+        padding: 50px;
+        height: 100px;
+        background-color:#7c7b7c;
+        float: auto;
+    }
+
+    div.style2 {
+        padding: 0px;
+        height: 245px;
+        background-color:#7c7b7c;
+        float:left;
+    }
+    div.style3 {
+        padding: 13px;
+        height: 230px;
+        background-color:#7c7b7c;
+        float:left;
+    }
+    div.style4 {
+        color: crimson;
+        padding: 85px;
+        height: 100px;
+        background-color:#7c7b7c;
+        float:left;
+    }
+    div.style5 {
+        color: crimson;
+        padding: 110px;
+        height: 0px;
+        background-color:#7c7b7c;
+        float:left;
+    }
+    div.style6 {
+        color: crimson;
+        padding: 98px;
+        height: 7px;
+        background-color:#7c7b7c;
+        float:left;
+    }

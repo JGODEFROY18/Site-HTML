@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>My Website</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='formulaire.css'>
+    <script src='main.js'></script>
+<head>
+<body>
+    <div class="style1">
+        <h1>
+            <i>Pour me contactez !</i>
+        </h1>
+    </div>
+    <div class="style2"></div>
+    <div class="style3"></div>
+    <hr>
+    <form action="mailto:jules.godefroydu60@gmail.com?subject=mail test" method="post">
+        <div>
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="user_name">
+        </div>
+        <div>
+            <label for="mail">e-mail :</label>
+            <input type="email" id="mail" name="user_mail">
+        </div>
+        <div>
+            <label for="msg">Message :</label>
+            <textarea id="msg" name="user_message"></textarea>
+        </div>
+        <div class="button">
+            <button type="submit">Envoyer le message</button>
+        </div>
+    </form>
+    <hr>
+   
